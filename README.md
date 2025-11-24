@@ -1,4 +1,4 @@
-# My Unity 2D Game Project
+# Reaction Training Unity 2D Game Project
 
 ![Screenshot](images/screenshot.png)
 
@@ -6,7 +6,7 @@
 This is a 2D game developed in Unity, showcasing my skills in C# programming, Unity game development, and mobile game monetization. The project demonstrates a clean integration of ads, in-app purchases, and online leaderboards.
 
 Check out the game on the [Google Play Store](https://play.google.com/store/apps/details?id=com.CodeBass.ReactionTimeMasters).  
-**Note:** This project is no longer actively maintained, so the link might break or certain features might stop working.
+**Note:** This project is no longer actively maintained, the link might break or certain features might stop working.
 
 ## Features
 - **Unity 2D Game Development**: Built entirely in Unity with 2D graphics and smooth gameplay mechanics.
