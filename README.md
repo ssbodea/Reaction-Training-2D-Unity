@@ -1,4 +1,4 @@
-# Reaction Training Unity 2D
+# Reaction Training Unity
 
 ![Screenshot](images/screenshot.png)
 
